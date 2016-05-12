@@ -1,0 +1,52 @@
+table {
+	background: DimGray;
+	font-size: 12px;
+	line-height:2;
+	font-family: 'Arial';
+}
+
+table th {
+	text-align: left;
+	color: DarkGray;
+	font-size: 1.3em;
+	font-weight: normal;
+}
+
+tbody, tfoot {
+	font-size:0.9em;
+}
+
+table tr td {
+    color: #ffffff;
+    padding-right: 20px;
+}
+
+a {
+    color: #DCCF88;
+    text-decoration: none;
+}
+
+.status {
+	font-style: italic;
+}
+
+.gold {
+	color: #DCCF88;
+}
+
+.red {
+    color: red;
+}
+
+.gray {
+	color: DarkGray;
+}
+
+.orange {
+	color: #e69500;
+}
+
+.green {
+	font-size: 20px;
+    color: #76B77F;
+}
