@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Decimal to binary", "01. Decimal to binary\01. Decimal to binary.csproj", "{017174D1-FCB4-4A95-9A7C-D9F4E04A3E81}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Binary to decimal", "02. Binary to decimal\02. Binary to decimal.csproj", "{812808AC-F80B-4D65-8D1F-17AFBC8CC9C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Decimal to hexadecimal", "03. Decimal to hexadecimal\03. Decimal to hexadecimal.csproj", "{BA16C553-8CCC-4889-A867-476438168ECA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Hexadecimal to decimal", "04. Hexadecimal to decimal\04. Hexadecimal to decimal.csproj", "{FCF82090-06D9-4B2E-AC8B-84A66A717BDF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Binary to hexadecimal", "06. Binary to hexadecimal\06. Binary to hexadecimal.csproj", "{53571734-A8AA-431E-BA6D-3DD51B245A4B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. One system to any other", "07. One system to any other\07. One system to any other.csproj", "{3F99F100-F942-4BDC-A940-0F7EF0BCF4F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08. Binary short", "08. Binary short\08. Binary short.csproj", "{52C12902-0E3A-4040-BC56-4F7BB765AF11}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{017174D1-FCB4-4A95-9A7C-D9F4E04A3E81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{017174D1-FCB4-4A95-9A7C-D9F4E04A3E81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{017174D1-FCB4-4A95-9A7C-D9F4E04A3E81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{017174D1-FCB4-4A95-9A7C-D9F4E04A3E81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{812808AC-F80B-4D65-8D1F-17AFBC8CC9C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{812808AC-F80B-4D65-8D1F-17AFBC8CC9C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{812808AC-F80B-4D65-8D1F-17AFBC8CC9C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{812808AC-F80B-4D65-8D1F-17AFBC8CC9C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA16C553-8CCC-4889-A867-476438168ECA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA16C553-8CCC-4889-A867-476438168ECA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA16C553-8CCC-4889-A867-476438168ECA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA16C553-8CCC-4889-A867-476438168ECA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCF82090-06D9-4B2E-AC8B-84A66A717BDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCF82090-06D9-4B2E-AC8B-84A66A717BDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCF82090-06D9-4B2E-AC8B-84A66A717BDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCF82090-06D9-4B2E-AC8B-84A66A717BDF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53571734-A8AA-431E-BA6D-3DD51B245A4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53571734-A8AA-431E-BA6D-3DD51B245A4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53571734-A8AA-431E-BA6D-3DD51B245A4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53571734-A8AA-431E-BA6D-3DD51B245A4B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F99F100-F942-4BDC-A940-0F7EF0BCF4F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F99F100-F942-4BDC-A940-0F7EF0BCF4F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F99F100-F942-4BDC-A940-0F7EF0BCF4F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F99F100-F942-4BDC-A940-0F7EF0BCF4F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52C12902-0E3A-4040-BC56-4F7BB765AF11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52C12902-0E3A-4040-BC56-4F7BB765AF11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52C12902-0E3A-4040-BC56-4F7BB765AF11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52C12902-0E3A-4040-BC56-4F7BB765AF11}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
