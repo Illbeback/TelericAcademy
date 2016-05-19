@@ -1,0 +1,62 @@
+body {
+    background-color: #EEEEEE;
+    font-family: "Times New Roman", Times, serif;
+}
+
+article {
+    background-color: #ffffff;
+    border: 1px solid #999999;
+    padding: 15px;
+    overflow: auto;
+    width: 400px;
+    margin: 40px 0 30px 0;
+}
+
+h2 {
+    font-weight: lighter;
+}
+
+p {
+
+    width: 210px;
+
+}
+
+a {
+    text-decoration: none;
+    font-weight: 900;
+    color: #2E2E2E;
+}
+
+img {
+    float: left;
+    border: 1px solid #999999;
+}
+
+.articleContent {
+    float: left;
+    margin-top: -20px;
+    margin-left: 20px;
+    width: 210px;
+}
+
+.buttonDiv {
+    float: right;
+    display: inline;
+}
+
+.listen {
+    background-image: url("images/listen.png");
+    width: 73px;
+    height: 25px;
+    border: none;
+    color: #ffffff;
+}
+
+.add {
+    background-image: url("images/add.png");
+    width: 59px;
+    height: 25px;
+    border: none;
+    color: #ffffff;
+}
